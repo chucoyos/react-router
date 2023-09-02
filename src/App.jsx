@@ -4,7 +4,6 @@ import { Link } from 'react-router-dom'
 function App() {
 	return (
 		<>
-			<h1>Home</h1>
 			<nav>
 				<ul>
 					<li>
@@ -12,6 +11,7 @@ function App() {
 					</li>
 				</ul>
 			</nav>
+			<h1>Home</h1>
 		</>
 	)
 }
